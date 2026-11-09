@@ -3,7 +3,7 @@
 
 So far so good.
 
-<img src="https://github.com/Zayatsoff/InstructGPT3-sandbox/blob/main/images/ss1.JPG" width="900">
+<img src="https://github.com/liorrozin/InstructGPT3-sandbox/blob/main/images/ss1.JPG" width="900">
 
 ## How to use:
 1. Install `requirements.txt`
